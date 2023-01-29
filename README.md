@@ -10,7 +10,7 @@ Industry : Life Style
 
 Project Title : Dance Mob
 
-Primary Azure Technologies : Static Web, App Service and Health Bot.[1,Static Web App URL  ](https://proud-desert-0766f9b10.2.azurestaticapps.net)[2, App Service URL  ]( https://dancemob.azurewebsites.net)[3, Health Bot URL  ](https://proud-desert-0766f9b10.2.azurestaticapps.net/bot.html)
+Primary Azure Technologies : [1,Static Web App URL  ](https://proud-desert-0766f9b10.2.azurestaticapps.net)[2, App Service URL  ]( https://dancemob.azurewebsites.net) and [3, Health Bot URL  ](https://proud-desert-0766f9b10.2.azurestaticapps.net/bot.html)
 
 
 Problem Statement/Opportunity : Body awareness and technical and expressive skills to communicate through movement confidently, creatively and intelligently. choreographic and performance skills and appreciation of their own and others' dances.
