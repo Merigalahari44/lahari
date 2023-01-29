@@ -16,15 +16,21 @@ Problem Statement/Opportunity : Body awareness and technical and expressive skil
 
 Project Description : In this project, I have created six templets they are home, services, classes, bot, short codes and mail us in which home is the main templet and all the other templets are mentioned in it assets consists of all the images colors and design of the website
 
-## Static Web App URL : https://proud-desert-0766f9b10.2.azurestaticapps.net
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## App Service URL : https://dancemob.azurewebsites.net
+1,Static Web App URL : https://proud-desert-0766f9b10.2.azurestaticapps.net
 
-## Health Bot URL : https://proud-desert-0766f9b10.2.azurestaticapps.net/bot.html
+2, App Service URL : https://dancemob.azurewebsites.net
 
-# My Website URL : https://proud-desert-0766f9b10.2.azurestaticapps.net
+3, Health Bot URL : https://proud-desert-0766f9b10.2.azurestaticapps.net/bot.html
 
-## Demo Video URL : https://drive.google.com/drive/folders/1fTFQcn9pBHNe9Gfg7mvkWCpYdN__oW4B?usp=sharing
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## My Website URL : https://proud-desert-0766f9b10.2.azurestaticapps.net
+
+
+Demo Video URL : https://drive.google.com/drive/folders/1fTFQcn9pBHNe9Gfg7mvkWCpYdN__oW4B?usp=sharing
+
 
 ## HOME 
 
@@ -82,4 +88,5 @@ Project Description : In this project, I have created six templets they are home
 
 ## AZURE SERVICES USED
 
-<img width="952" alt="azure" src="https://user-images.githubusercontent.com/116781497/213757540-2e2ad007-7142-4191-9007-c9773fa33756.png">
+
+<img width="1080" alt="lahari azure" src="https://user-images.githubusercontent.com/116781497/215301826-c1e0a16e-5499-47ab-8dff-4b07678754a6.png">
