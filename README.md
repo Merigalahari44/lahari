@@ -23,7 +23,7 @@ Project Description : In this project, I have created six templets they are home
 
 [2, App Service URL  ]( https://dancemob.azurewebsites.net)
 
-[3, Health Bot URL  ](https://proud-desert-0766f9b10.2.azurestaticapps.net/bot.html)
+[3, Health Bot URL  ](https://proud-desert-0766f9b10.2.azurestaticapps.net/bot.html) Avilabe in the botom of the website page  and home/bot page 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
